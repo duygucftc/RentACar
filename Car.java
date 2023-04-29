@@ -3,3 +3,4 @@ Harika, bazi kodlar yazdim.
 
 
 yeni kodlar ekledim.
+Bazi calismalar yaptim
