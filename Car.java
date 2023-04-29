@@ -7,4 +7,5 @@ yeni kodlar ekledim.
 farkli kodlar yazdim.
 
 Bazi calismalar yaptim
+Localde conflict olursa
 
